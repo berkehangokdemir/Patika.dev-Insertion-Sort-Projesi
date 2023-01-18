@@ -1,2 +1,4 @@
-# Patika.dev-Insertion-Sort-Projesi
-Patika.dev Insertion Sort Projesi
+# Patika.dev-Selection-Sort-Projesi
+Patika.dev Selection Sort Projesi
+
+
